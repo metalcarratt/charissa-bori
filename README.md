@@ -1,2 +1,2 @@
 ﻿# charissa-bori
-https://metalcarratt.github.io/charissa-bori/index.html
+https://metalcarratt.github.io/charissa-bori/bori.html
